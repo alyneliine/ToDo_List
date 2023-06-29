@@ -1,0 +1,20 @@
+* {
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+.bg-rose-clean {
+    background-color: #FF6D6D !important;
+}
+
+.add{
+    color: #FF6D6D;
+}
+
+.open-card{
+    display: flex;
+    flex-direction: column;
+}
+
+.close-card{
+    display: none;
+}
